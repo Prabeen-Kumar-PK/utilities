@@ -720,3 +720,11 @@ nav i{
     padding: 20px;
 }
 }
+
+@media screen and (max-width:350px){
+    nav ul li a {
+        font-size: 2rem;
+
+    }
+
+}
